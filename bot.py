@@ -19,7 +19,7 @@ IDLE_TIMEOUT_MINUTES = 5
 # Spotify — получи на https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID     = "a1e4677d338a422390dc7e632d9d29c1"
 SPOTIFY_CLIENT_SECRET = "c9c9a0b53c194d81ae2c7367d0a4c87b"
-SPOTIFY_REFRESH_TOKEN = "YOUR_SPOTIFY_REFRESH_TOKEN"
+SPOTIFY_REFRESH_TOKEN = "AQDrJdEgvU7IQ-BiFXuuqPrUzGdVa6D_v2_5neXKBd9LAElkv5bYcFAKD3K2ZWEEyvaCvFgQlpt2mNZzp543cUcbUSduePG6AVD-2CXLdvObabzm8USxLBOk1FYf1L-kq3c"
 # Инструкция по получению REFRESH_TOKEN — в README.md
 # =====================================================
 
